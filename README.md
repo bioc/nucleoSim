@@ -42,8 +42,6 @@ If you use this package for a publication, we would ask you to cite the followin
 and [Arnaud Droit](http://ca.linkedin.com/in/drarnaud 
 "Arnaud Droit").
 
-See [AD Lab](https://compbio.ca/  
-"AD Lab") website.
 
 
 ## Maintainer ##
